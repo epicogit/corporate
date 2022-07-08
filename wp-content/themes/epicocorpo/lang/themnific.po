@@ -1,0 +1,514 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: status/comments.php:27
+msgid "<span class=\"meta-nav\">&laquo;</span> Older Comments"
+msgstr ""
+
+#. Text in echo
+#: status/includes/mag-postmore.php:2
+msgid "About the Author"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-300.php:62
+msgid "Ad Code:"
+msgstr ""
+
+#. Text in echo
+#: status/template-portfolio.php:15
+#: status/archive.php:9
+#: status/includes/homeblocks/folio.php:7
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: status/includes/uni-404-content.php:19
+msgid "All Blog Posts"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-300.php:75
+msgid "Alt text:"
+msgstr ""
+
+#. Text in echo
+#: status/date.php:21
+#: status/date.php:25
+#: status/date.php:29
+msgid "Archive for"
+msgstr ""
+
+#. Text in echo
+#: status/category.php:12
+#: status/date.php:13
+#: status/tag.php:12
+msgid "Archive for the"
+msgstr ""
+
+#. Text in echo
+#: status/date.php:33
+msgid "Author Archive"
+msgstr ""
+
+#. Text in echo
+#: status/author.php:29
+msgid "Author Posts"
+msgstr ""
+
+#. Text in echo
+#: status/author.php:15
+msgid "Author: "
+msgstr ""
+
+#. Text in echo
+#: status/single-myportfoliotype.php:49
+msgid "Back Home"
+msgstr ""
+
+#. Text in echo
+#: status/single-myportfoliotype.php:48
+msgid "Back To The Portfolio"
+msgstr ""
+
+#. Text in echo
+#: status/author.php:23
+msgid "Bio: "
+msgstr ""
+
+#. Text in echo
+#: status/date.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: status/includes/homeblocks/mosaic_blog.php:58
+#: status/includes/homeblocks/mosaic_featured.php:62
+msgid "Browse All Articles"
+msgstr ""
+
+#. Text in echo
+#: status/includes/homeblocks/mosaic_folio.php:58
+#: status/includes/homeblocks/folio.php:48
+msgid "Browse Our Portfolio"
+msgstr ""
+
+#. Text in echo
+#: status/includes/uni-404-content.php:11
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: status/category.php:12
+#: status/date.php:13
+#: status/tag.php:12
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: status/functions/posttypes/ptype-clients.php:1
+msgid "Client Image"
+msgstr ""
+
+#. Text in echo
+#: status/comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: status/functions/js/shortcode-generator/dialog.php:51
+msgid "Customize the Shortcode"
+msgstr ""
+
+#. Text in echo
+#: status/footer.php:33
+msgid "Designed by"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: status/functions/widgets/widget-ads-125.php:36
+msgid "Example"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Follow"
+msgstr ""
+
+#. Text in function
+#: status/functions/js/shortcode-generator/dialog.php:77
+msgid "Framework does not support shortcodes."
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "From: "
+msgstr ""
+
+#. Text in echo
+#: status/includes/homeblocks/folio.php:5
+msgid "Get More"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Hide the Content"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#. Text in echo
+#: status/includes/post-types/image.php:20
+msgid "Image"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-125.php:96
+msgid "Image 2 URL"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-125.php:110
+msgid "Image 3 URL"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-125.php:124
+msgid "Image 4 URL"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-125.php:83
+msgid "Image URL"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-300.php:67
+msgid "Image Url:"
+msgstr ""
+
+#. Text in echo
+#: status/includes/uni-tabs.php:5
+msgid "Latest"
+msgstr ""
+
+#. Text in function
+#: status/functions/posttypes/ptype-layout.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-300.php:71
+msgid "Link URL:"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Message via the contact form"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "My %s Profile"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: status/comments.php:28
+msgid "Newer Comments <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#. Text in function
+#: status/functions.php:1
+msgid "Next"
+msgstr ""
+
+#. Text in echo
+#: status/404.php:7
+msgid "Nothing found here"
+msgstr ""
+
+#. Text in function
+#: status/header.php:16
+msgid "Page %s"
+msgstr ""
+
+#. Text in echo
+#: status/includes/uni-404-content.php:3
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: status/single-s-right.php:41
+#: status/page.php:14
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: status/404.php:9
+#: status/search.php:35
+msgid "Perhaps You will find something interesting form these lists..."
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Please enter your email address (and please make sure it\\'s valid)"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Please enter your message"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Please enter your name"
+msgstr ""
+
+#. Text in echo
+#: status/includes/uni-tabs.php:6
+msgid "Popular"
+msgstr ""
+
+#. Text in function
+#: status/functions/posttypes/ptype-portfolio.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in echo
+#: status/category.php:16
+#: status/date.php:17
+#: status/tag.php:16
+msgid "Posts Tagged"
+msgstr ""
+
+#. Text in echo
+#: status/footer.php:33
+msgid "Powered by"
+msgstr ""
+
+#. Text in function
+#: status/functions/js/shortcode-generator/dialog.php:60
+msgid "Preview"
+msgstr ""
+
+#. Text in function
+#: status/functions.php:1
+msgid "Previous"
+msgstr ""
+
+#. Text in function
+#: status/functions/posttypes/ptype-pricing-tabs.php:1
+msgid "Pricing Tabs"
+msgstr ""
+
+#. Text in echo
+#: status/includes/uni-tabs.php:7
+msgid "Random"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Read Less"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+#: status/includes/post-types/video.php:28
+#: status/includes/post-types/gallery.php:24
+#: status/includes/post-types/medpost.php:30
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Reply-To: "
+msgstr ""
+
+#. Text in echo
+#: status/search.php:7
+msgid "Search Results for"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#. Text in function
+#: status/functions/posttypes/ptype-services.php:1
+msgid "Service Image"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Show the Content"
+msgstr ""
+
+#. Text in function
+#: status/functions/posttypes/ptype-slider.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in echo
+#: status/single-s-right.php:77
+#: status/page.php:36
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#. Text in echo
+#: status/search.php:33
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Subscribe to our RSS feed"
+msgstr ""
+
+#. Text in echo
+#: status/includes/uni-tabs.php:8
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-125.php:100
+msgid "Target 2 URL"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-125.php:114
+msgid "Target 3 URL"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-125.php:128
+msgid "Target 4 URL"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-125.php:87
+msgid "Target URL"
+msgstr ""
+
+#. Text in function
+#: status/functions/widgets/widget-ads-300.php:1
+msgid "Themnific - Ads Widget 300px"
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "There were one or more errors while submitting the form."
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-300.php:58
+msgid "Title (optional):"
+msgstr ""
+
+#. Text in echo
+#: status/functions/widgets/widget-ads-125.php:74
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: status/single-myportfoliotype.php:42
+msgid "Visit Project"
+msgstr ""
+
+#. Text in echo
+#: status/author.php:21
+msgid "Website: "
+msgstr ""
+
+#. Text in function
+#: status/functions/admin-shortcodes.php:1
+msgid "Your email was successfully sent."
+msgstr ""
+
+#. Text in echo
+#: status/includes/post-types/link.php:3
+msgid "[Link]"
+msgstr ""
+
+#. Text in echo
+#: status/includes/post-types/image.php:28
+#: status/single-s-right.php:34
+#: status/page.php:23
+#: status/includes/post-types/video.php:17
+#: status/includes/post-types/audio.php:17
+#: status/includes/post-types/gallery.php:13
+#: status/includes/post-types/medpost.php:19
+#: status/includes/sliders-types/blocks2.php:9
+#: status/includes/post-types/link.php:11
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: status/includes/post-types/image.php:27
+#: status/single-myportfoliotype.php:39
+#: status/single-s-right.php:33
+#: status/includes/post-types/video.php:16
+#: status/includes/post-types/audio.php:16
+#: status/includes/post-types/gallery.php:12
+#: status/includes/post-types/medpost.php:18
+#: status/includes/sliders-types/blocks2.php:8
+#: status/includes/post-types/link.php:10
+msgid "in"
+msgstr ""
+
+#. Text in echo
+#: status/includes/post-types/image.php:26
+#: status/single-myportfoliotype.php:38
+#: status/single-s-right.php:32
+#: status/page.php:22
+#: status/includes/post-types/video.php:15
+#: status/includes/post-types/audio.php:15
+#: status/includes/post-types/gallery.php:11
+#: status/includes/post-types/medpost.php:17
+#: status/includes/post-types/link.php:9
+msgid "on"
+msgstr ""
+
+#. Text in echo
+#: status/includes/uni-comments.php:31
+msgid "says:"
+msgstr ""
+
+#. Text in echo
+#: status/single-s-right.php:35
+#: status/includes/post-types/video.php:18
+#: status/includes/post-types/gallery.php:14
+#: status/includes/post-types/medpost.php:20
+msgid "with"
+msgstr ""
