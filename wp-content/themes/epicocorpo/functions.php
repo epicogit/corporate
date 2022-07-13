@@ -3,10 +3,10 @@
 
 if ( ! isset( $content_width ) )
 	$content_width = 787;
-	
-	
+
+
 /*-----------------------------------------------------------------------------------
-- Start Themnific Functions - Please refrain from editing this section 
+- Start Themnific Functions - Please refrain from editing this section
 ----------------------------------------------------------------------------------- */
 
 // Set path to Themnific Framework and theme specific functions
@@ -31,6 +31,20 @@ require_once ($includes_path . 'posttypes/ptype-clients.php'); 			// clients pos
 require_once ($includes_path . 'posttypes/ptype-pricing-tabs.php'); 	// pricing tabs post type
 require_once ($includes_path . 'posttypes/post-metabox.php'); 			// custom meta box
 
+
+
+remove_filter( 'the_content', 'wpautop' );
+function tg_remove_empty_paragraph_tags_from_shortcodes_wordpress( $content ) {
+    $toFix = array(
+        '<p>['    => '[',
+        ']</p>'   => ']',
+        ']<br />' => ']'
+    );
+    return strtr( $content, $toFix );
+}
+add_filter( 'the_content', 'tg_remove_empty_paragraph_tags_from_shortcodes_wordpress' );
+
+
 /*-----------------------------------------------------------------------------------
 - Loads all the .php files found in /admin/widgets/ directory
 ----------------------------------------------------------------------------------- */
@@ -42,14 +56,14 @@ require_once ($includes_path . 'posttypes/post-metabox.php'); 			// custom meta 
 	} else {
     	$widgets_dir = WP_CONTENT_DIR . "/themes/".get_option('template')."/functions/widgets/";
     }
-    
+
     if (@is_dir($widgets_dir)) {
 		$widgets_dh = opendir($widgets_dir);
 		while (($widgets_file = readdir($widgets_dh)) !== false) {
-  	
+
 			if(strpos($widgets_file,'.php') && $widgets_file != "widget-blank.php") {
 				include_once($widgets_dir . $widgets_file);
-			
+
 			}
 		}
 		closedir($widgets_dh);
@@ -89,11 +103,11 @@ add_theme_support( 'automatic-feed-links' );
 add_theme_support( 'custom-background' );
 
 // widgets
-if ( function_exists('register_sidebar') ) 
-{ 
+if ( function_exists('register_sidebar') )
+{
 
 // sidebar widget
-register_sidebar(array('name' => 'Sidebar','before_widget' => '','after_widget' => '','before_title' => '<h2>','after_title' => '</h2>')); 
+register_sidebar(array('name' => 'Sidebar','before_widget' => '','after_widget' => '','before_title' => '<h2>','after_title' => '</h2>'));
 }
 
 // Make theme available for translation
@@ -103,7 +117,7 @@ register_sidebar(array('name' => 'Sidebar','before_widget' => '','after_widget' 
 
 // Shordcodes
 require_once (get_template_directory().'/functions/admin-shortcodes.php' );				// Shortcodes
-require_once (get_template_directory().'/functions/admin-shortcode-generator.php' ); 	// Shortcode generator 
+require_once (get_template_directory().'/functions/admin-shortcode-generator.php' ); 	// Shortcode generator
 
 // Use shortcodes in text widgets.
 add_filter('widget_text', 'do_shortcode');
@@ -136,29 +150,29 @@ function short_title($after = '', $length) {
 
 // icons - font awesome
 function tmnf_icon() {
-	
+
 	if(has_post_format('video')) {return '<i class="icon-play-circle"></i>';
 	}elseif(has_post_format('audio')) {return '<i class="icon-music"></i>';
-	}elseif(has_post_format('gallery')) {return '<i class="icon-picture"></i>';	
-	}elseif(has_post_format('link')) {return '<i class="icon-signout"></i>';	
-	}elseif(has_post_format('image')) {return '<i class="icon-camera"></i>';		
-	}elseif(has_post_format('quote')) {return '<i class="icon-quote-right"></i>';	
-	} else {'';}	
-	
+	}elseif(has_post_format('gallery')) {return '<i class="icon-picture"></i>';
+	}elseif(has_post_format('link')) {return '<i class="icon-signout"></i>';
+	}elseif(has_post_format('image')) {return '<i class="icon-camera"></i>';
+	}elseif(has_post_format('quote')) {return '<i class="icon-quote-right"></i>';
+	} else {'';}
+
 }
 
 
 // icons ribbons - font awesome
 function tmnf_ribbon() {
-	
+
 	if(has_post_format('video')) {return '<span class="ribbon"></span><span class="ribbon_icon"><i class="icon-play-circle"></i></span>';
 	}elseif(has_post_format('audio')) {return '<span class="ribbon"></span><span class="ribbon_icon"><i class="icon-music"></i></span>';
 	}elseif(has_post_format('gallery')) {return '<span class="ribbon"></span><span class="ribbon_icon"><i class="icon-picture"></i></span>';
 	}elseif(has_post_format('link')) {return '<span class="ribbon"></span><span class="ribbon_icon"><i class="icon-signout"></i></span>';
 	}elseif(has_post_format('image')) {return '<span class="ribbon"></span><span class="ribbon_icon"><i class="icon-camera"></i></span>';
 	}elseif(has_post_format('quote')) {return '<span class="ribbon"></span><span class="ribbon_icon"><i class="icon-quote-right"></i></span>';
-	} else {'';}	
-	
+	} else {'';}
+
 }
 
 

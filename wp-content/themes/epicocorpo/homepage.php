@@ -34,7 +34,7 @@ Template Name: Homepage
 		</div>
 		<div class="page page-home">
 			<div class="bia-scroll-element">
-				<div class="grid page-support__header">
+				<div class="grid page-support__header" style="background-image: url('/wp-content/uploads/2022/07/sliderv2.png');">
 					<div class="row left-xs">
 						<div class="grid__item col-xs-12 col-md-6">
 							<p class="text--light">Benvenuti su EpicoPlay</p>
@@ -263,21 +263,214 @@ Template Name: Homepage
 
 				</div>
 
-
-				
-
+				<?php if (get_option('themnific_slider_dis') <> "true") { ?>
 
 
+				    <?php get_template_part('/includes/homeblocks/flex-full');?>
 
 
-
-
+				<?php } ?>
 
 
 
 
 
 
+
+
+
+
+
+
+
+				<div class="grid" data-module="overview">
+
+
+				<div class="row between-xs overview-aside__content align--right">
+
+
+
+
+
+					<!-- destra -->
+					<div class="aside row col-xs-12 col-sm-6 col-md-6 overview-aside__aside">
+						<div class="col-xs-12">
+							<div class="grid--light ui-sticky">
+								<div class="col-xs-10 col-xs-offset-1 col-md-12">
+									<div class="aside__content grid--padding grid--no-padding-left">
+
+										<div class="comment border--radius-big  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask " id="$ID" data-filter="$ClassName" data-starID="$Star.ID">
+	<div class="row col-xs-12">
+		<div class="col-xs-1  col-sm-3 col-section ">
+
+
+
+
+
+
+
+
+		    <a href="$Star.StarPage.URLSegment" class="intrinsic intrinsic--landscape border--radius-big " data-component="lazy" data-imgsrc='[{"src":"/themes/weareepico/images/noimage_efa.jpg"}]'></a>
+
+
+
+
+			</div>
+
+		<div class="col-xs-11 col-sm-8 col-section grid--padding--half-left grid--padding--half-right ">
+
+			<a href="{$BaseHref}fask/it/$ID">
+
+			<p class="text--light">Titolo <strong class="text--light bold">Testata</strong></p></a>
+
+
+
+
+
+
+
+
+
+							<p class="small">Kama.Sport, la scienza al servizio del calcio che ha conquistato anche il Napoli di Spalletti</p>
+
+		</div>
+
+
+
+
+
+
+
+
+
+		<div class="col-xs-4 col-sm-1 col-section center-xs grid--padding-top grid--no-padding-top--md ">
+
+
+			            <p class="small bold text--light">
+										<svg class="svg-icon" viewBox="0 0 231.289 40" enable-background="new 0 0 231.289 40" xml:space="preserve">
+								<use x="0" y="0" xlink:href="#logout" />
+							</svg></p>
+
+
+
+
+
+
+
+		</div>
+
+
+	</div>
+</div>
+
+
+
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					<!-- sinistra -->
+						<div class="overview-aside__posts row col-xs-12 col-sm-6 col-md-6">
+							<div class="grid__item  grid--padding-top col-xs-12 start-xs">
+								<p class="h9 bold">Sponsorship</p>
+
+							</div>
+							<div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+
+								<div class="grid__item inner border--radius-large">
+		<a href="https://www.mendo.nl/journal/collections/an-ode-to-motherly-energy/" class="intrinsic intrinsic--avatar is-loaded" style="background-color: rgb(59, 55, 79); background-image: url(&quot;https://www.mendo.nl/wp-content/uploads/2022/05/IMG_3084-700x0-c-default.jpg&quot;);" data-component="lazy" data-imgsrc="[{&quot;width&quot;:350,&quot;height&quot;:350,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-350x0-c-default.jpg&quot;},{&quot;width&quot;:500,&quot;height&quot;:500,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-500x0-c-default.jpg&quot;},{&quot;width&quot;:700,&quot;height&quot;:700,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-700x0-c-default.jpg&quot;},{&quot;width&quot;:900,&quot;height&quot;:900,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-900x0-c-default.jpg&quot;}]">
+		</a>
+		<p class="h8  grid--padding--half-top">
+			U.S. Lecce
+		</p>
+
+		<p class="excerpt">We have put together a selection of books that we consider mothers in their own category. Have a look at the titles that nurture us, inspire us and help us…</p>
+		<time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time>
+	</div>
+	</div>
+	<div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+
+		<div class="grid__item inner border--radius-large">
+<a href="https://www.mendo.nl/journal/collections/an-ode-to-motherly-energy/" class="intrinsic intrinsic--avatar is-loaded" style="background-color: rgb(59, 55, 79); background-image: url(&quot;https://www.mendo.nl/wp-content/uploads/2022/05/IMG_3084-700x0-c-default.jpg&quot;);" data-component="lazy" data-imgsrc="[{&quot;width&quot;:350,&quot;height&quot;:350,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-350x0-c-default.jpg&quot;},{&quot;width&quot;:500,&quot;height&quot;:500,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-500x0-c-default.jpg&quot;},{&quot;width&quot;:700,&quot;height&quot;:700,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-700x0-c-default.jpg&quot;},{&quot;width&quot;:900,&quot;height&quot;:900,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-900x0-c-default.jpg&quot;}]">
+</a>
+<p class="h8  grid--padding--half-top">
+U.S. Lecce
+</p>
+
+<p class="excerpt">We have put together a selection of books that we consider mothers in their own category. Have a look at the titles that nurture us, inspire us and help us…</p>
+<time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time>
+</div>
+</div>
+<div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+
+	<div class="grid__item inner border--radius-large">
+<a href="https://www.mendo.nl/journal/collections/an-ode-to-motherly-energy/" class="intrinsic intrinsic--avatar is-loaded" style="background-color: rgb(59, 55, 79); background-image: url(&quot;https://www.mendo.nl/wp-content/uploads/2022/05/IMG_3084-700x0-c-default.jpg&quot;);" data-component="lazy" data-imgsrc="[{&quot;width&quot;:350,&quot;height&quot;:350,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-350x0-c-default.jpg&quot;},{&quot;width&quot;:500,&quot;height&quot;:500,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-500x0-c-default.jpg&quot;},{&quot;width&quot;:700,&quot;height&quot;:700,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-700x0-c-default.jpg&quot;},{&quot;width&quot;:900,&quot;height&quot;:900,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-900x0-c-default.jpg&quot;}]">
+</a>
+<p class="h8  grid--padding--half-top">
+U.S. Lecce
+</p>
+
+<p class="excerpt">We have put together a selection of books that we consider mothers in their own category. Have a look at the titles that nurture us, inspire us and help us…</p>
+<time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time>
+</div>
+</div>
+<div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+
+	<div class="grid__item inner border--radius-large">
+<a href="https://www.mendo.nl/journal/collections/an-ode-to-motherly-energy/" class="intrinsic intrinsic--avatar is-loaded" style="background-color: rgb(59, 55, 79); background-image: url(&quot;https://www.mendo.nl/wp-content/uploads/2022/05/IMG_3084-700x0-c-default.jpg&quot;);" data-component="lazy" data-imgsrc="[{&quot;width&quot;:350,&quot;height&quot;:350,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-350x0-c-default.jpg&quot;},{&quot;width&quot;:500,&quot;height&quot;:500,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-500x0-c-default.jpg&quot;},{&quot;width&quot;:700,&quot;height&quot;:700,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-700x0-c-default.jpg&quot;},{&quot;width&quot;:900,&quot;height&quot;:900,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-900x0-c-default.jpg&quot;}]">
+</a>
+<p class="h8  grid--padding--half-top">
+U.S. Lecce
+</p>
+
+<p class="excerpt">We have put together a selection of books that we consider mothers in their own category. Have a look at the titles that nurture us, inspire us and help us…</p>
+<time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time>
+</div>
+</div>
+
+
+
+						<div class="  grid__item col-xs-12 col-md-12 center-xs " id="$ID">
+							<div class="comment  journal-card grid--gradient-purple grid--padding--sm grid--padding--double col-xs-12 col-md-12 start-xs border--radius-large light--shadow-apple " id="$ID">
+							<p class="h7">
+								Scarica l'app
+							</p>
+							<p class="excerpt">
+								Insieme Facciamo La Differenza.<br/>
+				Voi In <strong>Campo</strong>, Noi <strong>Fuori</strong>.<br/>
+							<div class="product-card__add-button grid--padding--half-top button-center"><a href="{$BaseHref}shop/celebs/alessandro-del-piero-between-us/" class="button button--white border--radius-big caps" >
+
+							Scarica l'app
+								<span class="button-hover">
+									<span>
+										<span class="buy-msg upper">Compra il libro</span>
+										<span class="added-msg upper">super</span>
+									</span>
+								</span>
+							</a></div>
+							</p>
+				</div>
+
+						</div>
+					</div>
+				</div>
+				</div>
 
 			</div>
 			<?php get_template_part('/includes/footer-inside'); ?>
