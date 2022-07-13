@@ -45,9 +45,21 @@
          <div class="grid page-support__header" style="background-image: url('/wp-content/uploads/2022/07/sliderv2.png');">
             <div class="row left-xs">
                <div class="grid__item col-xs-12 col-md-6">
-                  <p class="text--light">Benvenuti su EpicoPlay</p>
-                  <h1 class="h4 text--light">Sport & Innovation <br/>All in one place</h1>
+                  <p class="text--light"><strong>Epico Play </strong> L’evoluzione dell’intrattenimento.</p>
+                  <h1 class="h5 text--light">Un nuovo mondo di interazioni tra i fans e quello che amano di più</h1>
+									<div class="grid--padding--half-top">
+									<a href="{$BaseHref}shop/celebs/alessandro-del-piero-between-us/" class="button button--green border--radius-big caps" >
+
+								Ottieni l'accesso
+								<span class="button-hover">
+									<span>
+										<span class="buy-msg upper">Ottieni l'accesso</span>
+										<span class="added-msg upper">super</span>
+									</span>
+								</span>
+							</a>
                </div>
+						 </div>
             </div>
             <div class="support-search-result__count row center-xs"> <span class="message"></span>  <span class="clear">clear</span>
             </div>
@@ -86,7 +98,7 @@
                </div>
             </div>
             <div class="row grid--padding--half-left">
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#engage" />
@@ -94,7 +106,7 @@
                      <span>Una mobile app rivoluzionaria che sfrutta funzionalità di interazione per accrescere e monetizzare la propria fan base.</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -102,7 +114,7 @@
                      <span>Live Data, News, Statistiche, In App Post</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -110,7 +122,7 @@
                      <span>Wallet, Quiz&Sondaggi, Votazioni, Direct Q&A</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -118,7 +130,7 @@
                      <span>Shop online, Sponsor, Ticketing, Premium Access</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -126,7 +138,7 @@
                      <span>CMS, ADV System, Integrabile con tutti CRM, Open API</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -142,7 +154,7 @@
                </div>
             </div>
             <div class="row grid--padding--half-left">
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#engage" />
@@ -150,7 +162,7 @@
                      <span>Una mobile app rivoluzionaria che sfrutta funzionalità di interazione per accrescere e monetizzare la propria fan base.</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -158,7 +170,7 @@
                      <span>Live Data, News, Statistiche, In App Post</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -166,7 +178,7 @@
                      <span>Wallet, Quiz&Sondaggi, Votazioni, Direct Q&A</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -174,7 +186,7 @@
                      <span>Shop online, Sponsor, Ticketing, Premium Access</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -182,7 +194,7 @@
                      <span>CMS, ADV System, Integrabile con tutti CRM, Open API</span>
                   </p>
                </div>
-               <div class="grid__item col-xs-5 col-sm-4 col-md-3">
+               <div class="grid__item col-xs-5 col-sm-4 col-md-4">
                   <p class="label grid">
                      <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
                         <use x="0" y="0" xlink:href="#heart" />
@@ -210,12 +222,12 @@
                   </a>
                </div>
                <div class="quicklink grid__item col-xs-6 col-sm-6 col-md-6 col-lg-6 transition-el-stagger">
-                  <div class="light--shadow-apple"><a href="/udinese" class="intrinsic button--presskit intrinsic--gif light--shadow-apple is-loaded border--radius-large" style="background-color: rgb(35, 35, 35); background-image: url(&quot;/assets/Uploads/_resampled/SetWidth800-cover-udi-oki2.jpeg&quot;);" data-component="lazy" data-imgsrc="[{&quot;src&quot;:&quot;/assets/Uploads/_resampled/SetWidth800-cover-udi-oki2.jpeg&quot;}]"></a></div>
+                  <div class="light--shadow-apple border--radius-large grid--gradient-green"><a href="/udinese" class="intrinsic button--presskit intrinsic--gif light--shadow-apple is-loaded border--radius-large" style="background-image: url(&quot;/wp-content/uploads/2022/07/second.png&quot;);background-repeat: no-repeat; background-size: 50vh; background-position: right bottom;" data-component="lazy" data-imgsrc="[{&quot;src&quot;:&quot;/wp-content/uploads/2022/07/second.png&quot;}]"></a></div>
                   <a class="h7 grid__item grid--no-edge--msm quicklink__title bold">
                      Canale Verticale
                      <br>
                      <p class="price regular "><span class="woocommerce-Price-amount amount">
-                        <span class="woocommerce-Price-currencySymbol col-xs-offset-1">etra a far parte dell’ecosistema multicanale Epico Play e aumenta le tue revenue.</span> </span>
+                        <span class="small caps upper bold">Entra a far parte dell’ecosistema multicanale Epico Play e aumenta le tue revenue.</span> </span>
                      </p>
                   </a>
                </div>
@@ -231,19 +243,20 @@
          <?php if (get_option('themnific_slider_dis') <> "true") { ?>
          <?php get_template_part('/includes/homeblocks/flex-full');?>
          <?php } ?>
-         <div class="grid" data-module="overview">
+         <div class="grid grid--no-padding-top" id="sponsor">
             <div class="row between-xs overview-aside__content align--right">
                <!-- destra -->
                <div class="aside row col-xs-12 col-sm-6 col-md-6 overview-aside__aside">
+
                   <div class="col-xs-12">
+
                      <div class="grid--light ui-sticky">
                         <div class="col-xs-10 col-xs-offset-1 col-md-12">
-                           <!-- <div class="grid__item  grid--padding-top col-xs-12 start-xs">
-                              <p class="h9 bold">Press</p>
-
-                              </div> -->
+                          <div class="grid__item  grid--padding-top grid--no-padding-left grid--no-padding-bottom col-xs-12 start-xs" style="height:0;">
+                             <p class="h9 bold">Press</p>
+                          </div>
                            <div class="aside__content grid--padding grid--no-padding-left">
-                              <div class="comment border--radius-big  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask row-float--margin-bottom " id="$ID" data-filter="$ClassName" data-starID="$Star.ID" data-component="lazy" data-imgsrc='[{"src":"/wp-content/uploads/2022/07/Group-2.png"}]'>
+                              <div class="comment border--radius-large  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask row-float--margin-bottom " id="$ID" data-filter="$ClassName" data-starID="$Star.ID" data-component="lazy" data-imgsrc='[{"src":"/wp-content/uploads/2022/07/Group-2.png"}]'>
                                  <div class="row col-xs-12">
                                     <div class="col-xs-11 col-sm-12 col-section grid--padding--double-bottom grid--padding--half-right ">
                                        <img src="/wp-content/uploads/2022/07/raiplay.png">
@@ -257,7 +270,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="comment border--radius-big  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask row-float--margin-bottom " id="$ID" data-filter="$ClassName" data-starID="$Star.ID">
+                              <div class="comment border--radius-large  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask row-float--margin-bottom " id="$ID" data-filter="$ClassName" data-starID="$Star.ID">
                                  <div class="row col-xs-12">
                                     <div class="col-xs-1  col-sm-3 col-section ">
                                        <a href="$Star.StarPage.URLSegment" class="intrinsic intrinsic--landscape border--radius-big " data-component="lazy" data-imgsrc='[{"src":"/themes/weareepico/images/noimage_efa.jpg"}]'></a>
@@ -278,7 +291,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="comment border--radius-big  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask row-float--margin-bottom " id="$ID" data-filter="$ClassName" data-starID="$Star.ID">
+                              <div class="comment border--radius-large  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask row-float--margin-bottom " id="$ID" data-filter="$ClassName" data-starID="$Star.ID">
                                  <div class="row col-xs-12">
                                     <div class="col-xs-1  col-sm-3 col-section ">
                                        <a href="$Star.StarPage.URLSegment" class="intrinsic intrinsic--landscape border--radius-big " data-component="lazy" data-imgsrc='[{"src":"/themes/weareepico/images/noimage_efa.jpg"}]'></a>
@@ -298,7 +311,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="comment border--radius-big  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask row-float--margin-bottom " id="$ID" data-filter="$ClassName" data-starID="$Star.ID">
+                              <div class="comment border--radius-large  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask row-float--margin-bottom " id="$ID" data-filter="$ClassName" data-starID="$Star.ID">
                                  <div class="row col-xs-12">
                                     <div class="col-xs-1  col-sm-3 col-section ">
                                        <a href="$Star.StarPage.URLSegment" class="intrinsic intrinsic--landscape border--radius-big " data-component="lazy" data-imgsrc='[{"src":"/themes/weareepico/images/noimage_efa.jpg"}]'></a>
@@ -318,7 +331,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="comment border--radius-big  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask " id="$ID" data-filter="$ClassName" data-starID="$Star.ID">
+                              <div class="comment border--radius-large  grid--dark-blue grid--padding--msm grid--padding--half journal-card col-xs-12 col-md-12 gallery-fask " id="$ID" data-filter="$ClassName" data-starID="$Star.ID">
                                  <div class="row col-xs-12">
                                     <div class="col-xs-1  col-sm-3 col-section ">
                                        <a href="$Star.StarPage.URLSegment" class="intrinsic intrinsic--landscape border--radius-big " data-component="lazy" data-imgsrc='[{"src":"/themes/weareepico/images/noimage_efa.jpg"}]'></a>
@@ -345,53 +358,105 @@
                </div>
                <!-- sinistra -->
                <div class="overview-aside__posts row col-xs-12 col-sm-6 col-md-6">
-                  <div class="grid__item  grid--padding-top col-xs-12 start-xs">
+                  <div class="grid__item  grid--padding-top grid--no-padding-bottom col-xs-12 start-xs">
                      <p class="h9 bold">Sponsorship</p>
                   </div>
-                  <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
-                     <div class="grid__item inner border--radius-large">
-                        <a href="https://www.mendo.nl/journal/collections/an-ode-to-motherly-energy/" class="intrinsic intrinsic--avatar is-loaded" style="background-color: rgb(59, 55, 79); background-image: url(&quot;https://www.mendo.nl/wp-content/uploads/2022/05/IMG_3084-700x0-c-default.jpg&quot;);" data-component="lazy" data-imgsrc="[{&quot;width&quot;:350,&quot;height&quot;:350,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-350x0-c-default.jpg&quot;},{&quot;width&quot;:500,&quot;height&quot;:500,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-500x0-c-default.jpg&quot;},{&quot;width&quot;:700,&quot;height&quot;:700,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-700x0-c-default.jpg&quot;},{&quot;width&quot;:900,&quot;height&quot;:900,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-900x0-c-default.jpg&quot;}]">
-                        </a>
-                        <p class="h8  grid--padding--half-top title bold">
+                  <div class="product-card journal-card grid__item col-xs-6 col-md-6 is-featured" data-component="product-card">
+                		<div class="middle-xs product-card__body inner grid__item border--radius-large " data-img="/wp-content/uploads/2022/07/leccelogo.png">
+                			<div class="product-card__publisher intrinsic intrinsic--avatar  " style="background: #F4327F;background-image: linear-gradient(41deg, #FF005B 1%, #FF5344 52%, #FF7400 100%);">
+                				<div class="image-center row center-xs middle-xs" data-img-parent>
+                					<a href="../signature-dishes-that-matter/index.html" class="image">
+
+                						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/leccelogo.png"}]'>
+
+                					</a>
+                				</div>
+
+                			</div>
+                			<div class="div row between-xs left-xs ">
+                        <p class="h8 title bold">
                            U.S. Lecce
                         </p>
                         <p class="excerpt opacity--05">We have put together a selection of books that we consider mothers in their own category. Have a look at the titles that nurture us, inspire us and help us…</p>
-                        <time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time>
-                     </div>
-                  </div>
-                  <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
-                     <div class="grid__item inner border--radius-large">
-                        <a href="https://www.mendo.nl/journal/collections/an-ode-to-motherly-energy/" class="intrinsic intrinsic--avatar is-loaded" style="background-color: rgb(59, 55, 79); background-image: url(&quot;https://www.mendo.nl/wp-content/uploads/2022/05/IMG_3084-700x0-c-default.jpg&quot;);" data-component="lazy" data-imgsrc="[{&quot;width&quot;:350,&quot;height&quot;:350,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-350x0-c-default.jpg&quot;},{&quot;width&quot;:500,&quot;height&quot;:500,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-500x0-c-default.jpg&quot;},{&quot;width&quot;:700,&quot;height&quot;:700,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-700x0-c-default.jpg&quot;},{&quot;width&quot;:900,&quot;height&quot;:900,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-900x0-c-default.jpg&quot;}]">
-                        </a>
-                        <p class="h8  grid--padding--half-top title bold">
+                        <p><span class="day title bold">12</span><time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time></p>
+                			</div>
+                		</div>
+                	</div>
+
+                  <div class="product-card journal-card grid__item col-xs-6 col-md-6 is-featured" data-component="product-card">
+                		<div class="middle-xs product-card__body inner grid__item border--radius-large " data-img="/wp-content/uploads/2022/07/leccelogo.png">
+                			<div class="product-card__publisher intrinsic intrinsic--avatar  " style="background: #F4327F;background-image: linear-gradient(41deg, #FF005B 1%, #FF5344 52%, #FF7400 100%);">
+                				<div class="image-center row center-xs middle-xs" data-img-parent>
+                					<a href="../signature-dishes-that-matter/index.html" class="image">
+
+                						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/leccelogo.png"}]'>
+
+                					</a>
+                				</div>
+
+                			</div>
+                			<div class="div row between-xs left-xs ">
+                        <p class="h8 title bold">
                            U.S. Lecce
                         </p>
                         <p class="excerpt opacity--05">We have put together a selection of books that we consider mothers in their own category. Have a look at the titles that nurture us, inspire us and help us…</p>
-                        <time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time>
-                     </div>
-                  </div>
-                  <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
-                     <div class="grid__item inner border--radius-large">
-                        <a href="https://www.mendo.nl/journal/collections/an-ode-to-motherly-energy/" class="intrinsic intrinsic--avatar is-loaded" style="background-color: rgb(59, 55, 79); background-image: url(&quot;https://www.mendo.nl/wp-content/uploads/2022/05/IMG_3084-700x0-c-default.jpg&quot;);" data-component="lazy" data-imgsrc="[{&quot;width&quot;:350,&quot;height&quot;:350,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-350x0-c-default.jpg&quot;},{&quot;width&quot;:500,&quot;height&quot;:500,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-500x0-c-default.jpg&quot;},{&quot;width&quot;:700,&quot;height&quot;:700,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-700x0-c-default.jpg&quot;},{&quot;width&quot;:900,&quot;height&quot;:900,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-900x0-c-default.jpg&quot;}]">
-                        </a>
-                        <p class="h8  grid--padding--half-top title bold">
+                        <p><span class="day title bold">12</span><time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time></p>
+                			</div>
+                		</div>
+                	</div>
+
+                  <div class="product-card journal-card grid__item col-xs-6 col-md-6 is-featured" data-component="product-card">
+                		<div class="middle-xs product-card__body inner grid__item border--radius-large " data-img="/wp-content/uploads/2022/07/leccelogo.png">
+                			<div class="product-card__publisher intrinsic intrinsic--avatar  " style="background: #F4327F;background-image: linear-gradient(41deg, #FF005B 1%, #FF5344 52%, #FF7400 100%);">
+                				<div class="image-center row center-xs middle-xs" data-img-parent>
+                					<a href="../signature-dishes-that-matter/index.html" class="image">
+
+                						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/leccelogo.png"}]'>
+
+                					</a>
+                				</div>
+
+                			</div>
+                			<div class="div row between-xs left-xs ">
+                        <p class="h8 title bold">
                            U.S. Lecce
                         </p>
                         <p class="excerpt opacity--05">We have put together a selection of books that we consider mothers in their own category. Have a look at the titles that nurture us, inspire us and help us…</p>
-                        <time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time>
-                     </div>
-                  </div>
-                  <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
-                     <div class="grid__item inner border--radius-large">
-                        <a href="https://www.mendo.nl/journal/collections/an-ode-to-motherly-energy/" class="intrinsic intrinsic--avatar is-loaded" style="background-color: rgb(59, 55, 79); background-image: url(&quot;https://www.mendo.nl/wp-content/uploads/2022/05/IMG_3084-700x0-c-default.jpg&quot;);" data-component="lazy" data-imgsrc="[{&quot;width&quot;:350,&quot;height&quot;:350,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-350x0-c-default.jpg&quot;},{&quot;width&quot;:500,&quot;height&quot;:500,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-500x0-c-default.jpg&quot;},{&quot;width&quot;:700,&quot;height&quot;:700,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-700x0-c-default.jpg&quot;},{&quot;width&quot;:900,&quot;height&quot;:900,&quot;src&quot;:&quot;https:\/\/www.mendo.nl\/wp-content\/uploads\/2022\/05\/IMG_3084-900x0-c-default.jpg&quot;}]">
-                        </a>
-                        <p class="h8  grid--padding--half-top title bold">
+                        <p><span class="day title bold">12</span><time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time></p>
+                			</div>
+                		</div>
+                	</div>
+
+                  <div class="product-card journal-card grid__item col-xs-6 col-md-6 is-featured" data-component="product-card">
+                		<div class="middle-xs product-card__body inner grid__item border--radius-large " data-img="/wp-content/uploads/2022/07/leccelogo.png">
+                			<div class="product-card__publisher intrinsic intrinsic--avatar  " style="background: #F4327F;background-image: linear-gradient(41deg, #FF005B 1%, #FF5344 52%, #FF7400 100%);">
+                				<div class="image-center row center-xs middle-xs" data-img-parent>
+                					<a href="../signature-dishes-that-matter/index.html" class="image">
+
+                						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/leccelogo.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/leccelogo.png"}]'>
+
+                					</a>
+                				</div>
+
+                			</div>
+                			<div class="div row between-xs left-xs ">
+                        <p class="h8 title bold">
                            U.S. Lecce
                         </p>
                         <p class="excerpt opacity--05">We have put together a selection of books that we consider mothers in their own category. Have a look at the titles that nurture us, inspire us and help us…</p>
-                        <time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time>
-                     </div>
-                  </div>
+                        <p><span class="day title bold">12</span><time datetime="2022-05-04T12:17:21+02:00" class="date">May 2022</time></p>
+                			</div>
+                		</div>
+                	</div>
+
+
+
+
+
+
+
+
+
                   <div class="  grid__item col-xs-12 col-md-12 center-xs " id="$ID">
                      <div class="comment  journal-card grid--gradient-purple grid--padding--sm grid--padding--double col-xs-12 col-md-12 start-xs border--radius-large light--shadow-apple " id="$ID">
                         <p class="h7">
@@ -400,16 +465,37 @@
                         <p class="excerpt">
                            Insieme Facciamo La Differenza.<br/>
                            Voi In <strong>Campo</strong>, Noi <strong>Fuori</strong>.<br/>
-                        <div class="product-card__add-button grid--padding--half-top button-center"><a href="{$BaseHref}shop/celebs/alessandro-del-piero-between-us/" class="button button--white border--radius-big caps" >
-                           Scarica l'app
-                           <span class="button-hover">
-                           <span>
-                           <span class="buy-msg upper">Compra il libro</span>
-                           <span class="added-msg upper">super</span>
-                           </span>
-                           </span>
-                           </a>
-                        </div>
+
+
+													 <div class="row col-xs-12 col-md-12">
+	 													<div class="col-xs-6 col grid__small">
+	 													<a href="/shop/celebs/alessandro-del-piero-between-us/" class="button button--white button--fullwidth border--radius-big caps">
+	 														<svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+	 																<use x="0" y="0" xlink:href="#apple" />
+	 															</svg> Apple Store
+	 														<span class="button-hover">
+	 															<span>
+	 																<span class="buy-msg upper">Apple Store</span>
+	 																<span class="added-msg upper">Apple Store</span>
+	 															</span>
+	 														</span>
+	 													</a>
+	 												</div>
+	 												<div class="col-xs-6 col grid__small">
+	 													<a href="/shop/celebs/alessandro-del-piero-between-us/" class="button button--white button--fullwidth border--radius-big caps">
+	 														<svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+	 																<use x="0" y="0" xlink:href="#android" />
+	 															</svg> Google Play
+	 														<span class="button-hover">
+	 															<span>
+	 																<span class="buy-msg upper">Google Play</span>
+	 																<span class="added-msg upper">Google Play</span>
+	 															</span>
+	 														</span>
+	 													</a>
+	 												</div>
+	 											</div>
+
                         </p>
                      </div>
                   </div>
@@ -424,55 +510,132 @@
             </div>
          </div>
          <div class="row between-xs grid" data-module="overview">
-            <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+            <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6 faq">
                <div class="grid__item inner border--radius-large">
-                  <p class="h8  title bold">
-                     Cos’è Epico Play
+                 <div class="row">
+                 <div class="col-xs-11 col-md-11 ">
+                  <p class="h8  title bold no-margin-auto">
+                     Cos’è Epico Play?
                   </p>
-                  <p class="excerpt opacity--05">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                </div>
+                <div class="col-xs-1 col-md-1 ">
+                  <a class="js--toggle-faq" >
+                  <svg class="svg-icon icon service-icon" viewBox="0 0 231.289 40" enable-background="new 0 0 231.289 40" xml:space="preserve">
+                     <use x="0" y="0" xlink:href="#more" />
+                  </svg>
+                </a>
+                </div>
                </div>
+             </div>
             </div>
-            <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+
+            <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6 faq">
                <div class="grid__item inner border--radius-large">
-                  <p class="h8  title bold">
-                     A chi si rivolge?
+                 <div class="row">
+                 <div class="col-xs-11 col-md-11 ">
+                  <p class="h8  title bold no-margin-auto">
+                     Cos’è Epico Play?
                   </p>
-                  <p class="excerpt opacity--05">pico Play si rivolge a tutto il mercato dell’entertaiment. Con particolare focus sul mondo dello sport, la nostra offerta è dedicata a federazioni, leghe e club ma anche a qualsiasi brand che voglia sviluppare un nuovo canale di comunicazione bidirezionale.
-                  </p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                </div>
+                <div class="col-xs-1 col-md-1 ">
+                  <a class="js--toggle-faq" >
+                  <svg class="svg-icon icon service-icon" viewBox="0 0 231.289 40" enable-background="new 0 0 231.289 40" xml:space="preserve">
+                     <use x="0" y="0" xlink:href="#more" />
+                  </svg>
+                </a>
+                </div>
                </div>
+             </div>
             </div>
-						<div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+
+            <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6 faq">
                <div class="grid__item inner border--radius-large">
-                  <p class="h8  title bold">
-                     Perché è diversa dalle altre app?
+                 <div class="row">
+                 <div class="col-xs-11 col-md-11 ">
+                  <p class="h8  title bold no-margin-auto">
+                     Cos’è Epico Play?
                   </p>
-                  <p class="excerpt opacity--05">La differenza tra Epico Play e qualsiasi altra app sono le sue funzionalità di interazione innovative che permettono a un brand di fidelizzare, accrescere e monetizzare la propria fan base su canale esclusivamente dedicato a loro.</p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                </div>
+                <div class="col-xs-1 col-md-1 ">
+                  <a class="js--toggle-faq" >
+                  <svg class="svg-icon icon service-icon" viewBox="0 0 231.289 40" enable-background="new 0 0 231.289 40" xml:space="preserve">
+                     <use x="0" y="0" xlink:href="#more" />
+                  </svg>
+                </a>
+                </div>
                </div>
+             </div>
             </div>
-						<div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+
+            <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6 faq">
                <div class="grid__item inner border--radius-large">
-                  <p class="h8  title bold">
-                     Come funziona?
+                 <div class="row">
+                 <div class="col-xs-11 col-md-11 ">
+                  <p class="h8  title bold no-margin-auto">
+                     Cos’è Epico Play?
                   </p>
-                  <p class="excerpt opacity--05">Epico Play si propone come partner tecnologico dei brand con l’obiettivo di accompagnarli nel loro naturale processo di evoluzione, offrendo una soluzione che sfrutta le migliori tecnologie sul mercato per creare un’esperienza unica e mai vista prima. Siamo in continua evoluzione per offrire sempre nuove funzionalità in linea con gli ultimissimi trend del mercato.</p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                </div>
+                <div class="col-xs-1 col-md-1 ">
+                  <a class="js--toggle-faq" >
+                  <svg class="svg-icon icon service-icon" viewBox="0 0 231.289 40" enable-background="new 0 0 231.289 40" xml:space="preserve">
+                     <use x="0" y="0" xlink:href="#more" />
+                  </svg>
+                </a>
+                </div>
                </div>
+             </div>
             </div>
-						<div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+
+            <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6 faq">
                <div class="grid__item inner border--radius-large">
-                  <p class="h8  title bold">
-                     Come aderire?
+                 <div class="row">
+                 <div class="col-xs-11 col-md-11 ">
+                  <p class="h8  title bold no-margin-auto">
+                     Cos’è Epico Play?
                   </p>
-                  <p class="excerpt opacity--05">Semplicissimo. Contattaci dal nostro sito, ti risponderemo immediatamente!</p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                </div>
+                <div class="col-xs-1 col-md-1 ">
+                  <a class="js--toggle-faq" >
+                  <svg class="svg-icon icon service-icon" viewBox="0 0 231.289 40" enable-background="new 0 0 231.289 40" xml:space="preserve">
+                     <use x="0" y="0" xlink:href="#more" />
+                  </svg>
+                </a>
+                </div>
                </div>
+             </div>
             </div>
-						<div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6">
+
+            <div class="grid__item journal-card grid--padding--mmd col-xs-6 col-md-6 faq">
                <div class="grid__item inner border--radius-large">
-                  <p class="h8  title bold">
-                     Dove ha sede Epico Play?
+                 <div class="row">
+                 <div class="col-xs-11 col-md-11 ">
+                  <p class="h8  title bold no-margin-auto">
+                     Cos’è Epico Play?
                   </p>
-                  <p class="excerpt opacity--05">Epico Play nasce a Lecce dove ha la sede amministrativa ma ha anche una sede operativa a Milano.</p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                </div>
+                <div class="col-xs-1 col-md-1 ">
+                  <a class="js--toggle-faq" >
+                  <svg class="svg-icon icon service-icon" viewBox="0 0 231.289 40" enable-background="new 0 0 231.289 40" xml:space="preserve">
+                     <use x="0" y="0" xlink:href="#more" />
+                  </svg>
+                </a>
+                </div>
                </div>
+             </div>
             </div>
+
+            
+
+
+
+
+
          </div>
 
 				 <?php get_template_part('/includes/homeblocks/team'); ?>

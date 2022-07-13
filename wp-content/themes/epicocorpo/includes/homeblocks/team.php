@@ -14,7 +14,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -36,7 +36,7 @@
         <div class="image-center row center-xs middle-xs" data-img-parent>
           <a href="../signature-dishes-that-matter/index.html" class="image">
 
-            <img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+            <img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
           </a>
         </div>
@@ -58,7 +58,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -80,7 +80,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -102,7 +102,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -124,7 +124,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -146,7 +146,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -168,7 +168,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -190,7 +190,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -212,7 +212,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -234,7 +234,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>
@@ -256,7 +256,7 @@
 				<div class="image-center row center-xs middle-xs" data-img-parent>
 					<a href="../signature-dishes-that-matter/index.html" class="image">
 
-						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"http://epicocorpo:8888/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
+						<img data-component="lazy" data-imgsrc='[{"width":60,"height":73,"src":"/wp-content/uploads/2022/07/team.png"},{"width":100,"height":122,"src":"/wp-content/uploads/2022/07/team.png"},{"width":200,"height":244,"src":"/wp-content/uploads/2022/07/team.png"},{"width":350,"height":427,"src":"/wp-content/uploads/2022/07/team.png"},{"width":500,"height":610,"src":"/wp-content/uploads/2022/07/team.png"}]' class="image--id-38151">
 
 					</a>
 				</div>

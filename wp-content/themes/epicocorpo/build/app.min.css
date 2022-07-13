@@ -4030,7 +4030,13 @@ a {
 	.not--table-cell.not--xl {
 		display: none
 	}
-}.grid {
+}
+
+.grid__small {
+	padding: .8333vw
+}
+
+.grid {
 	position: relative;
 	width: 100%;
 	padding: 2.08333vw
@@ -4394,16 +4400,23 @@ a {
 
 .intrinsic {
 	position: relative;
-	width: 100%;
-	height: 0;
-	padding-top: 100%;
-	background-size: cover;
-	background-position: center
+    width: 100%;
+    height: 0;
+    padding-top: 100%;
+    background-size: cover!important;
+    background-position: center;
+    background-repeat: no-repeat!important;
 }
 
 .intrinsic:not(.no-bg) {
-background: #fff;
+
 }
+
+#sponsor .intrinsic:not(.no-bg) {
+	background-image: linear-gradient(138deg, #0B2433 0%, #133D55 100%);
+
+}
+
 
 .intrinsic--overflow {
 	overflow: hidden
@@ -4844,6 +4857,14 @@ p {
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin-bottom:
+	-webkit-transition: background-color 200ms ease;
+    -ms-transition: background-color 200ms ease;
+    transition: background-color 200ms ease;
+
+}
+
+.comment:hover {
+	background-color: #133D55;
 }
 
 @media (max-width:1500px) {
@@ -5613,7 +5634,7 @@ p {
 		column-count: 2
 	}
 }strong {
-	font-weight: 500
+	font-weight: bold;
 }
 
 .text-center {
@@ -5810,6 +5831,16 @@ svg {
 	top: -.15em;
 	display: inline-block;
 	vertical-align: middle
+}
+
+svg.service-icon {
+	height: 1.8em;
+	width: auto;
+		top: .25em;
+		left: .25em;
+		vertical-align: middle;
+		fill:white;
+
 }
 
 footer svg {
@@ -6088,6 +6119,16 @@ img {
 }
 .grid--gradient-purple {
 	background-image: linear-gradient(270deg, #FF005B 0%, #AA003D 100%);
+}
+
+.grid--gradient-green {
+	background-image: linear-gradient(139deg, #35AD86 0%, #46F8ED 100%);
+
+}
+
+
+.grid--gradient-purple .intrinsic:not(.no-bg), .grid--gradient-green .intrinsic:not(.no-bg) {
+background: inherit;
 }
 
 .grid--dark-blue {
@@ -9643,11 +9684,17 @@ button {
 
 .button--white {
 	background: #fff;
-	color: #121212
+	color: #0B2433!important;
+}
+
+.button--green {
+	background-image: linear-gradient(139deg, #35AD86 0%, #46F8ED 100%);
+
+	color: #fff!important;
 }
 
 .button--white svg {
-	fill: #121212
+	fill: #0B2433!important
 }
 
 .button--white span {
@@ -10082,7 +10129,7 @@ button {
 	width: 100%;
 
 	display: block;
-	
+
 }
 
 @media only screen and (max-width:767px) {
@@ -10348,6 +10395,8 @@ button {
 	background: #133D55;
 box-shadow: 0 20px 27px 0 rgba(0,0,0,0.05);
 }
+
+
 
 .journal-card .label.label-subtitle {
 	display: inline-block;

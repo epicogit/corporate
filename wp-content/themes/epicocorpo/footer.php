@@ -7,7 +7,7 @@
 <div class="row newsletter-block newsletter-popup newsletter-popup--beige center-xs middle-xs newsletter-block--home hide" data-component="newsletter-popup">
 		<div class="newsletter-bg js-close"></div>
 		<div class="newsletter-popup--inner grid--padding--double-top grid--padding--double-bottom" data-component="newsletter">
-			<p class="h4">Join the inner circle</p>
+			<p class="h4">Scarica l'app</p>
 			<div class="newsletter-block__messages">
 				<p class="newsletter-block__message excerpt subtitle active">Stay updated with the latest news, stories and discounts</p>
 				<p class="newsletter-block__message excerpt incorrect">Bummer... looks like your email address is not correct</p>
