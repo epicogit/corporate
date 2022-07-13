@@ -3502,6 +3502,9 @@ a {
 .row-float--margin {
 	margin-top: 1.05263rem
 }
+.row-float--margin-bottom {
+	margin-bottom: 1.05263rem
+}
 
 .row-float--relative {
 	position: relative
@@ -4412,8 +4415,8 @@ background: #fff;
 
 .intrinsic--avatar {
 	padding-top: 20%;
-	width: 6.777vw!important;
-	height: 6.777vw;
+	width: 4.777vw!important;
+	height: 4.777vw;
 	background-size: cover!important;
 	border-radius: 1vw;
 }
@@ -4464,6 +4467,10 @@ background: #fff;
 
 .intrinsic--16x9 {
 	padding-top: 56.25%
+}
+
+.intrinsic--circle {
+	border-radius: 100%
 }
 
 .intrinsic--gif {
@@ -4831,6 +4838,12 @@ p {
 	background: #fff;
 	border: 3px solid #121212;
 	box-shadow: -15px 15px 0px 0px #fff, -15px 15px 0px 3px #000, -30px 30px 0px 0px #fff, -30px 30px 0px 3px #000, 5px 5px 15px -14px rgba(0,0,0,0);
+}
+
+.comment {
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-bottom:
 }
 
 @media (max-width:1500px) {
@@ -6078,7 +6091,7 @@ img {
 }
 
 .grid--dark-blue {
-	background: #0B2433;
+	background-color: #0B2433;
 	box-shadow: 0 13px 33px 0 rgba(0,0,0,0.05);
 }
 
@@ -6101,6 +6114,14 @@ button {
 	border: none
 }
 
+.opacity--05 {
+	opacity: .5;
+}
+
+.opacity--25 {
+	opacity: .25;
+}
+
 [data-component=lazy] {
 	position: relative
 }
@@ -6115,6 +6136,16 @@ button {
 	background-color: inherit;
 	opacity: 1;
 	transition: .55s opacity cubic-bezier(.77,0,.175,1)
+}
+
+.comment [data-component=lazy]:after {
+	border-radius: 6px;
+}
+
+.comment svg.svg-icon  {
+	height: 1.8em;
+	width: auto;
+	fill:white;
 }
 
 [data-component=lazy].is-loaded:after {
@@ -6163,6 +6194,7 @@ button {
 	width: 100%;
 	pointer-events: none
 }
+
 
 .add-to-cart--image {
 	position: fixed;
@@ -10048,9 +10080,9 @@ button {
 
 .product-card .image-center .image img {
 	width: 100%;
-	box-shadow: 12px 12px 20px 5px rgba(0,0,0,.14);
+
 	display: block;
-	border-radius: 2px
+	
 }
 
 @media only screen and (max-width:767px) {
