@@ -212,7 +212,7 @@
             </div>
             <div class="quicklinks__scrollable row grid--padding--half-left">
                <div class="quicklink grid__item col-xs-6 col-sm-6 col-md-6 col-lg-6 transition-el-stagger">
-                  <div class="light--shadow-apple border--radius-large grid--gradient-purple"><a href="/janaitalyfoodporn" class="intrinsic button--presskit intrinsic--gif light--shadow-apple is-loaded border--radius-large" style="background-image: url(&quot;/wp-content/uploads/2022/07/assets.png&quot;);background-repeat: no-repeat; background-size: 50vh; background-position: right bottom;" data-component="lazy" data-imgsrc="[{&quot;src&quot;:&quot;/wp-content/uploads/2022/07/assets.png&quot;}]"></a></div>
+                  <div class="light--shadow-apple border--radius-large grid--gradient-purple"><a href="/janaitalyfoodporn" class="intrinsic button--presskit intrinsic--gif light--shadow-apple is-loaded border--radius-large" style="background-image: url(&quot;/wp-content/uploads/2022/07/assets.png&quot;);background-repeat: no-repeat; background-size: 50vh!important; background-position: right bottom;" data-component="lazy" data-imgsrc="[{&quot;src&quot;:&quot;/wp-content/uploads/2022/07/assets.png&quot;}]"></a></div>
                   <a class="h7 grid__item grid--no-edge--msm quicklink__title bold">
                      WhiteLabel
                      <br>
@@ -222,7 +222,7 @@
                   </a>
                </div>
                <div class="quicklink grid__item col-xs-6 col-sm-6 col-md-6 col-lg-6 transition-el-stagger">
-                  <div class="light--shadow-apple border--radius-large grid--gradient-green"><a href="/udinese" class="intrinsic button--presskit intrinsic--gif light--shadow-apple is-loaded border--radius-large" style="background-image: url(&quot;/wp-content/uploads/2022/07/second.png&quot;);background-repeat: no-repeat; background-size: 50vh; background-position: right bottom;" data-component="lazy" data-imgsrc="[{&quot;src&quot;:&quot;/wp-content/uploads/2022/07/second.png&quot;}]"></a></div>
+                  <div class="light--shadow-apple border--radius-large grid--gradient-green"><a href="/udinese" class="intrinsic button--presskit intrinsic--gif light--shadow-apple is-loaded border--radius-large" style="background-image: url(&quot;/wp-content/uploads/2022/07/second.png&quot;);background-repeat: no-repeat; background-size: 50vh!important; background-position: right bottom;" data-component="lazy" data-imgsrc="[{&quot;src&quot;:&quot;/wp-content/uploads/2022/07/second.png&quot;}]"></a></div>
                   <a class="h7 grid__item grid--no-edge--msm quicklink__title bold">
                      Canale Verticale
                      <br>
@@ -630,7 +630,7 @@
              </div>
             </div>
 
-            
+
 
 
 
