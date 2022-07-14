@@ -17,13 +17,13 @@
           </div>
           <div class="header-expanded-view">
             <span class="header-link header-link--normal link regular upper js-menu-star__link">
-              <a class="no-hover-slant link  no-route italic-hover" data-link="about">ABOUT US </a>
+              <a class="no-hover-slant link  no-route " data-link="about">ABOUT US </a>
             </span>
             <span class="header-link header-link--normal link regular upper js-menu-star__link">
-              <a class="no-hover-slant link  no-route italic-hover" data-link="menu">Benefits</a>
+              <a class="no-hover-slant link  no-route " data-link="menu">Benefits</a>
             </span>
             <span class="header-link header-link--normal link regular upper js-menu-star__link">
-              <a class="no-hover-slant link  no-route italic-hover" data-link="contact">Come Funziona</a>
+              <a class="no-hover-slant link  no-route " data-link="contact">Come Funziona</a>
             </span>
           </div>
         </div>
@@ -151,8 +151,8 @@
 <div class="row end-xs">
 	<form enctype="application/x-www-form-urlencoded" method="post" action="Security/LoginForm" id="MemberLoginForm_LoginForm" class="grid__item grid--padding categories js-login-form">
 		<div class="row center-xs">
-			<div class="menu-section__header grid__item col-xs-12 grid--padding">
-				<h2 class="h1 text--dark">Account</h2>
+			<div class="menu-section__header grid__item col-xs-12">
+				<h2 class="h9 text--light bold">Account</h2>
 			</div>
 		</div>
 
@@ -192,7 +192,7 @@
 					</div>
 				</div>
 
-											<a href="Security/lostpassword" class="small text--dark">Password dimenticata? </a></div>
+											<a href="Security/lostpassword" class="small text--light">Password dimenticata? </a></div>
 		</div>
 
 		<div class="row middle-xs between-xs grid--padding--half-top ">
@@ -201,7 +201,7 @@
 				<a href="{$BaseHref}dashboard?locale=$Locale" class="button   light--shadow  border--radius-small button--white small caps spaced   regular text--dark">Iscriviti</a></div>
 
 			<div class=" col-xs-6">
-			<button type="submit" class="button   light--shadow button--download border--radius-small small caps spaced prevent-default" >Accedi
+			<button type="submit" class="button button--green  light--shadow button--download border--radius-small small caps spaced prevent-default" >Accedi
 					<span class="button-hover"><span><span class="buy-msg">Accedi</span></span></span></button>
 			</div>
 		</div>

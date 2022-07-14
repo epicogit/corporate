@@ -4641,7 +4641,7 @@ a {
 	will-change: transform
 }
 
-.header .italic-hover:active, .header .support-submenu__item:hover .support-submenu__title:active, .no-touchevents .header .italic-hover:hover, .no-touchevents .header .support-submenu__item:hover .support-submenu__title:hover, .support-submenu__item:hover .header .support-submenu__title:active, .support-submenu__item:hover .no-touchevents .header .support-submenu__title:hover {
+.header .italic-hover:active, .header .support-submenu__item:hover .support-submenu__title:active, .no-touch .header .italic-hover:hover, .no-touch .header .support-submenu__item:hover .support-submenu__title:hover, .support-submenu__item:hover .header .support-submenu__title:active, .support-submenu__item:hover .no-touch .header .support-submenu__title:hover {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -4653,13 +4653,13 @@ a {
 	will-change: transform
 }
 
-.italic-hover.is-splitted:active div, .no-touchevents .italic-hover.is-splitted:hover div, .no-touchevents .support-submenu__item:hover .is-splitted.support-submenu__title:hover div, .support-submenu__item:hover .is-splitted.support-submenu__title:active div, .support-submenu__item:hover .no-touchevents .is-splitted.support-submenu__title:hover div {
+.italic-hover.is-splitted:active div, .no-touch .italic-hover.is-splitted:hover div, .no-touch .support-submenu__item:hover .is-splitted.support-submenu__title:hover div, .support-submenu__item:hover .is-splitted.support-submenu__title:active div, .support-submenu__item:hover .no-touch .is-splitted.support-submenu__title:hover div {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
 
 a {
-	color: #121212
+	color: #fff
 }
 
 .topic-section a, .topic__section a, a.underline {
@@ -6452,6 +6452,10 @@ body:not(.has-overlay):not(.search-is-open) .header[data-brightness=light]:not(.
 	fill: #fff
 }
 
+.header.scrolled svg {
+	fill:white;
+}
+
 @media only screen and (min-width:768px) {
 	.header .logo a {
 		position: absolute;
@@ -6759,7 +6763,7 @@ body:not(.is-home) .header__news {
 }
 
 .header__menu .cartcount .cartcount__background {
-	background: #121212;
+	background: #46F8ED;
 	border-radius: 50%;
 	position: absolute;
 	top: -25%;
@@ -7000,7 +7004,7 @@ body.is-checkout .header .ui-back svg {
 	}
 
 	body:not(.has-overlay):not(.search-is-open) .header[data-brightness=light]:not(.scrolled) .header__content .cartcount:not(.cart-filled) .cartcount__number {
-		color: #121212
+		color: #0B2433
 	}
 
 	body:not(.has-overlay):not(.search-is-open) .header[data-brightness=light]:not(.scrolled) .header__content svg {
@@ -7055,7 +7059,7 @@ background: #133D55;
 	transition: 2s opacity cubic-bezier(.19,1,.22,1)
 }
 
-.no-touchevents .footer .h5:hover~.footer__background, .no-touchevents .footer .support-search-result__heading:hover~.footer__background {
+.no-touch .footer .h5:hover~.footer__background, .no-touch .footer .support-search-result__heading:hover~.footer__background {
 	opacity: 1;
 	transition: 3s opacity cubic-bezier(.19,1,.22,1)
 }
@@ -7085,7 +7089,7 @@ background: #133D55;
 	margin-right: 8.33333vw
 }
 
-.footer .socials a:active, .no-touchevents .footer .socials a:hover {
+.footer .socials a:active, .no-touch .footer .socials a:hover {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -8237,7 +8241,7 @@ input[type=date]::-webkit-calendar-picker-indicator {
 	transition: .2s transform cubic-bezier(.19,1,.22,1);
 	transition: .2s transform cubic-bezier(.19,1,.22,1),.2s -webkit-transform cubic-bezier(.19,1,.22,1);
 	font-family: Cairo,Helvetica,Arial,sans-serif;
-	font-weight: 500;
+	font-weight: bold;
 	font-size: 14px;
 	font-size: .93333vw;
 	line-height: 14px;
@@ -9161,7 +9165,7 @@ input:placeholder-shown~.input__status {
 	display: block
 }
 
-.no-touchevents .select2-results__option:hover span, .select2-results__option:active span {
+.no-touch .select2-results__option:hover span, .select2-results__option:active span {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -9220,7 +9224,7 @@ html.is-phone .select2-store-category::after {
 	will-change: transform
 }
 
-.no-touchevents .select2-selection__rendered:hover, .select2-selection__rendered:active {
+.no-touch .select2-selection__rendered:hover, .select2-selection__rendered:active {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -9597,7 +9601,7 @@ button {
 }
 
 .button span.button-hover>span {
-	color: #121212;
+	color: #0B2433;
 	-webkit-transform: translateX(101%);
 	transform: translateX(101%);
 	transition: .55s -webkit-transform cubic-bezier(.19,1,.22,1);
@@ -9702,7 +9706,7 @@ button {
 }
 
 .button--white span.button-hover {
-	background: #121212
+	background: #0B2433
 }
 
 .button--white span.button-hover>span, .button--white span.button-hover>span span {
@@ -9763,7 +9767,7 @@ button {
 	.preview .button .quote__text {
 		line-height: 40px
 	}
-}.button:active:not(.is-loading):not(.button--sold-out) span, .no-touchevents .button:hover:not(.is-loading):not(.button--sold-out) span {
+}.button:active:not(.is-loading):not(.button--sold-out) span, .no-touch .button:hover:not(.is-loading):not(.button--sold-out) span {
 	-webkit-transform: none!important;
 	transform: none!important
 }
@@ -9862,7 +9866,7 @@ button {
 }
 
 @media only screen and (min-width:768px) {
-	.no-touchevents .button--wishlist-min {
+	.no-touch .button--wishlist-min {
 		display: none
 	}
 }.button--sold-out {
@@ -10028,7 +10032,7 @@ button {
 	background-color: transparent
 }
 
-.no-touchevents .product-card .intrinsic.hover.previews-loaded:hover .product-card__carousel, .product-card .intrinsic.hover.previews-loaded:active .product-card__carousel {
+.no-touch .product-card .intrinsic.hover.previews-loaded:hover .product-card__carousel, .product-card .intrinsic.hover.previews-loaded:active .product-card__carousel {
 	opacity: 1
 }
 
@@ -10037,11 +10041,11 @@ button {
 	transition: .55s opacity ease
 }
 
-.no-touchevents .product-card .intrinsic.hover.no-carousel:hover .hover__link, .product-card .intrinsic.hover.no-carousel:active .hover__link {
+.no-touch .product-card .intrinsic.hover.no-carousel:hover .hover__link, .product-card .intrinsic.hover.no-carousel:active .hover__link {
 	opacity: 1
 }
 
-.no-touchevents .product-card .intrinsic.hover:hover .button, .product-card .intrinsic.hover:active .button {
+.no-touch .product-card .intrinsic.hover:hover .button, .product-card .intrinsic.hover:active .button {
 	-webkit-transform: none;
 	transform: none
 }
@@ -10336,18 +10340,18 @@ button {
 	overflow: hidden
 }
 
-.no-touchevents .team-card__image:hover .intrinsic {
+.no-touch .team-card__image:hover .intrinsic {
 	transition: .65s -webkit-transform cubic-bezier(.19,1,.22,1);
 	transition: .65s transform cubic-bezier(.19,1,.22,1);
 	transition: .65s transform cubic-bezier(.19,1,.22,1),.65s -webkit-transform cubic-bezier(.19,1,.22,1)
 }
 
-.no-touchevents .team-card__image:hover .intrinsic:first-of-type {
+.no-touch .team-card__image:hover .intrinsic:first-of-type {
 	-webkit-transform: translateX(-15%);
 	transform: translateX(-15%)
 }
 
-.no-touchevents .team-card__image:hover .intrinsic:last-of-type {
+.no-touch .team-card__image:hover .intrinsic:last-of-type {
 	-webkit-transform: none;
 	transform: none
 }
@@ -10435,7 +10439,7 @@ box-shadow: 0 20px 27px 0 rgba(0,0,0,0.05);
 	cursor: pointer
 }
 
-.journal-card .intrinsic:active~.h7 .is-splitted div, .no-touchevents .journal-card .intrinsic:hover~.h7 .is-splitted div {
+.journal-card .intrinsic:active~.h7 .is-splitted div, .no-touch .journal-card .intrinsic:hover~.h7 .is-splitted div {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -10804,7 +10808,7 @@ box-shadow: 0 20px 27px 0 rgba(0,0,0,0.05);
 	background-color: #b0b2a1
 }
 
-.buy-btn:active .buy .buy-btn__transform, .buy-btn:active .buy .buy-btn__transform__inner, .buy-btn:active .price .buy-btn__transform, .buy-btn:active .price .buy-btn__transform__inner, .no-touchevents .buy-btn:hover .buy .buy-btn__transform, .no-touchevents .buy-btn:hover .buy .buy-btn__transform__inner, .no-touchevents .buy-btn:hover .price .buy-btn__transform, .no-touchevents .buy-btn:hover .price .buy-btn__transform__inner {
+.buy-btn:active .buy .buy-btn__transform, .buy-btn:active .buy .buy-btn__transform__inner, .buy-btn:active .price .buy-btn__transform, .buy-btn:active .price .buy-btn__transform__inner, .no-touch .buy-btn:hover .buy .buy-btn__transform, .no-touch .buy-btn:hover .buy .buy-btn__transform__inner, .no-touch .buy-btn:hover .price .buy-btn__transform, .no-touch .buy-btn:hover .price .buy-btn__transform__inner {
 	-webkit-transform: translate(0);
 	transform: translate(0)
 }
@@ -10937,7 +10941,7 @@ box-shadow: 0 20px 27px 0 rgba(0,0,0,0.05);
 .shadow {
 	height: 100vh;
 	width: 100vw;
-	background: rgba(0,0,0,.6);
+	background: rgba(11,36,51,.9);
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -10995,7 +10999,7 @@ body[class*=is-product] .shadow {
 	display: block
 }
 
-.no-touchevents .pagination li:hover, .pagination li.current {
+.no-touch .pagination li:hover, .pagination li.current {
 	border-color: #121212
 }
 
@@ -11810,7 +11814,7 @@ https://flickity.metafizzy.co
 	}
 
 	.menu-section--account .categories {
-		background-color: #b0b2a1
+		background: #133D55;
 	}
 
 	.menu-section--support .categories {
@@ -12970,7 +12974,7 @@ body[class*=is-home] .header.scrolled .c-search-fixed__header {
 	will-change: transform
 }
 
-.no-touchevents .pswp button:hover svg, .pswp button:active svg {
+.no-touch .pswp button:hover svg, .pswp button:active svg {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }/*! PhotoSwipe main CSS by Dmitry Semenov | photoswipe.com | MIT license */
@@ -13124,7 +13128,7 @@ body[class*=is-home] .header.scrolled .c-search-fixed__header {
 	text-decoration: underline
 }
 
-.no-touchevents .pswp .pswp__container:not(.is-dragging) {
+.no-touch .pswp .pswp__container:not(.is-dragging) {
 	transition: 1.5s all cubic-bezier(.19,1,.22,1)!important
 }
 
@@ -13819,7 +13823,7 @@ body[class*=is-home] .header.scrolled .c-search-fixed__header {
 	padding: 0
 }
 
-.no-touchevents .chat-bubble:hover span {
+.no-touch .chat-bubble:hover span {
 	-webkit-transform: none;
 	transform: none
 }
@@ -15160,7 +15164,7 @@ body[class*=is-home] .header.scrolled .c-search-fixed__header {
 	transition: .2s box-shadow ease
 }
 
-.no-touchevents [data-module=image] .caption p a:hover, [data-module=image] .caption p a:active {
+.no-touch [data-module=image] .caption p a:hover, [data-module=image] .caption p a:active {
 	box-shadow: 0 2px 0 0 currentColor
 }
 
@@ -15337,7 +15341,7 @@ body[class*=is-home] .header.scrolled .c-search-fixed__header {
 		font-size: 19px
 	}
 
-	[data-module=overview] .product-card:nth-of-type(9n+4)>div>.intrinsic .intrinsic, html.no-touchevents [data-module=overview] .product-card:nth-of-type(9n+4)>div>.intrinsic:hover .button-center {
+	[data-module=overview] .product-card:nth-of-type(9n+4)>div>.intrinsic .intrinsic, html.no-touch [data-module=overview] .product-card:nth-of-type(9n+4)>div>.intrinsic:hover .button-center {
 		opacity: 1
 	}
 
@@ -15416,7 +15420,7 @@ body[class*=is-home] .header.scrolled .c-search-fixed__header {
 	[data-module=overview] .aside__content {
 		padding-right: 8.33333vw
 	}
-}.no-touchevents [data-module=overview] .aside .intrinsic:hover~.aside__content .is-splitted div, [data-module=overview] .aside .intrinsic:active~.aside__content .is-splitted div {
+}.no-touch [data-module=overview] .aside .intrinsic:hover~.aside__content .is-splitted div, [data-module=overview] .aside .intrinsic:active~.aside__content .is-splitted div {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -16506,7 +16510,7 @@ body[class*=is-support] .page-overlay__header {
 	.page-home .quicklinks .quicklink a.h7 {
 		line-height: 19px
 	}
-}.no-touchevents .page-home .quicklinks .quicklink__image:hover~.h7.is-splitted div, .page-home .quicklinks .quicklink__image:active~.h7.is-splitted div {
+}.no-touch .page-home .quicklinks .quicklink__image:hover~.h7.is-splitted div, .page-home .quicklinks .quicklink__image:active~.h7.is-splitted div {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -16966,7 +16970,7 @@ body[class*=is-support] .page-overlay__header {
 	display: inline-block
 }
 
-.no-touchevents .page-store .store__open-search-button:hover, .no-touchevents .page-store .toggle-filters:hover, .page-store .store__open-search-button:active, .page-store .toggle-filters:active {
+.no-touch .page-store .store__open-search-button:hover, .no-touch .page-store .toggle-filters:hover, .page-store .store__open-search-button:active, .page-store .toggle-filters:active {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -17332,7 +17336,7 @@ body[class*=is-support] .page-overlay__header {
 	will-change: transform
 }
 
-.no-touchevents .page-checkout .edit-cart:hover, .page-checkout .edit-cart:active {
+.no-touch .page-checkout .edit-cart:hover, .page-checkout .edit-cart:active {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -17520,7 +17524,7 @@ body[class*=is-support] .page-overlay__header {
 	margin-left: .5em
 }
 
-.no-touchevents .page-checkout .product-card__title button:hover {
+.no-touch .page-checkout .product-card__title button:hover {
 	opacity: .5
 }
 
@@ -18509,21 +18513,21 @@ body[class*=is-support] .page-overlay__header {
 	.page-bag .bag-more__price::before {
 		top: -.4em
 	}
-}html:not(.no-touchevents) .page-bag .bag-more__price>span {
+}html:not(.no-touch) .page-bag .bag-more__price>span {
 	margin-left: 1em
 }
 
-.no-touchevents .page-bag .bag-more__price::before {
+.no-touch .page-bag .bag-more__price::before {
 	-webkit-transform: scale(0);
 	transform: scale(0)
 }
 
-.no-touchevents .page-bag .bag-more__price:hover>span {
+.no-touch .page-bag .bag-more__price:hover>span {
 	-webkit-transform: translateX(1em);
 	transform: translateX(1em)
 }
 
-.no-touchevents .page-bag .bag-more__price:hover::before {
+.no-touch .page-bag .bag-more__price:hover::before {
 	-webkit-transform: none;
 	transform: none
 }
@@ -18621,7 +18625,7 @@ body[class*=is-support] .page-overlay__header {
 	font-size: 16px
 }
 
-.no-touchevents .page-bag .product-card__adjust-buttons button:hover {
+.no-touch .page-bag .product-card__adjust-buttons button:hover {
 	opacity: .5
 }
 
@@ -18855,7 +18859,7 @@ body[class*=is-support] .page-overlay__header {
 	will-change: transform
 }
 
-.cart-coupon-button:active, .no-touchevents .cart-coupon-button:hover {
+.cart-coupon-button:active, .no-touch .cart-coupon-button:hover {
 	-webkit-transform: skewX(-8deg);
 	transform: skewX(-8deg)
 }
@@ -19132,7 +19136,7 @@ body[class*=is-support] .page-overlay__header {
 }
 
 @media only screen and (min-width:768px) {
-	.no-touchevents .page-wishlist .product-card .mobile-wishlist-buttons {
+	.no-touch .page-wishlist .product-card .mobile-wishlist-buttons {
 		display: none
 	}
 }@media only screen and (max-width:767px) {
@@ -19487,7 +19491,7 @@ body[class*=is-support] .page-press .presskit_popup .page-overlay__header {
 }
 
 @media only screen and (min-width:768px) {
-	.no-touchevents .page-press .product-card .mobile-press-buttons {
+	.no-touch .page-press .product-card .mobile-press-buttons {
 		display: none
 	}
 }@media only screen and (max-width:767px) {
@@ -20679,7 +20683,7 @@ html:not(.is-safari) .preview.preview-enlarger .image-center .button .no-padding
 		cursor: pointer
 	}
 
-	.no-touchevents .product-hero__gallery__thumb:hover, .product-hero__gallery__thumb.active {
+	.no-touch .product-hero__gallery__thumb:hover, .product-hero__gallery__thumb.active {
 		border-color: #fff
 	}
 }@media only screen and (min-width:1024px) and (max-width:1199px) {
@@ -20811,13 +20815,13 @@ html:not(.is-safari) .preview.preview-enlarger .image-center .button .no-padding
 	transition-delay: .45s
 }
 
-.no-touchevents .page-single-product .next-product:hover, .no-touchevents .page-single-product .prev-product:hover {
+.no-touch .page-single-product .next-product:hover, .no-touch .page-single-product .prev-product:hover {
 	-webkit-transform: none;
 	transform: none;
 	transition-duration: 1s
 }
 
-.no-touchevents .page-single-product .next-product:hover .image-center, .no-touchevents .page-single-product .prev-product:hover .image-center {
+.no-touch .page-single-product .next-product:hover .image-center, .no-touch .page-single-product .prev-product:hover .image-center {
 	-webkit-transform: none;
 	transform: none;
 	transition: 1s -webkit-transform cubic-bezier(.19,1,.22,1);
