@@ -241,7 +241,7 @@
             </div>
          </div>
          <?php if (get_option('themnific_slider_dis') <> "true") { ?>
-         <?php get_template_part('/includes/homeblocks/flex-full');?>
+         <?php get_template_part('/includes/homeblocks/flex-full-mendo');?>
          <?php } ?>
          <div class="grid grid--no-padding-top" id="sponsor">
             <div class="row between-xs overview-aside__content align--right">
@@ -535,9 +535,9 @@
                  <div class="row">
                  <div class="col-xs-11 col-md-11 ">
                   <p class="h8  title bold no-margin-auto">
-                     Cos’è Epico Play?
+                     A chi si rivolge?
                   </p>
-                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">ÈEpico Play si rivolge a tutto il mercato dell’entertaiment. Con particolare focus sul mondo dello sport, la nostra offerta è dedicata a federazioni, leghe e club ma anche a qualsiasi brand che voglia sviluppare un nuovo canale di comunicazione bidirezionale.</p>
                 </div>
                 <div class="col-xs-1 col-md-1 ">
                   <a class="js--toggle-faq" >
@@ -555,9 +555,9 @@
                  <div class="row">
                  <div class="col-xs-11 col-md-11 ">
                   <p class="h8  title bold no-margin-auto">
-                     Cos’è Epico Play?
+                    Dove ha sede Epico Play?
                   </p>
-                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">Epico Play nasce a Lecce dove ha la sede amministrativa ma ha anche una sede operativa a Milano.</p>
                 </div>
                 <div class="col-xs-1 col-md-1 ">
                   <a class="js--toggle-faq" >
@@ -575,9 +575,9 @@
                  <div class="row">
                  <div class="col-xs-11 col-md-11 ">
                   <p class="h8  title bold no-margin-auto">
-                     Cos’è Epico Play?
+                    Perché è diversa dalle altre app?
                   </p>
-                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">La differenza tra Epico Play e qualsiasi altra app sono le sue funzionalità di interazione innovative che permettono a un brand di fidelizzare, accrescere e monetizzare la propria fan base su canale esclusivamente dedicato a loro.</p>
                 </div>
                 <div class="col-xs-1 col-md-1 ">
                   <a class="js--toggle-faq" >
@@ -595,9 +595,9 @@
                  <div class="row">
                  <div class="col-xs-11 col-md-11 ">
                   <p class="h8  title bold no-margin-auto">
-                     Cos’è Epico Play?
+                     Come funziona?
                   </p>
-                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
+                  <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">Epico Play si propone come partner tecnologico dei brand con l’obiettivo di accompagnarli nel loro naturale processo di evoluzione, offrendo una soluzione che sfrutta le migliori tecnologie sul mercato per creare un’esperienza unica e mai vista prima. Siamo in continua evoluzione per offrire sempre nuove funzionalità in linea con gli ultimissimi trend del mercato.</p>
                 </div>
                 <div class="col-xs-1 col-md-1 ">
                   <a class="js--toggle-faq" >
@@ -615,7 +615,7 @@
                  <div class="row">
                  <div class="col-xs-11 col-md-11 ">
                   <p class="h8  title bold no-margin-auto">
-                     Cos’è Epico Play?
+                     Come aderire?
                   </p>
                   <p class="excerpt opacity--05 grid--padding--half-top commentcontainer hide">È una digital house che opera nel mondo dell’entertaiment. Offriamo delle soluzioni tecnologiche in grado di far evolvere la comunicazione dei brand che operano in questo settore.</p>
                 </div>
