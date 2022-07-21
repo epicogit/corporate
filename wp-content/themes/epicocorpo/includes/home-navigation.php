@@ -17,7 +17,7 @@
           </div>
           <div class="header-expanded-view">
             <span class="header-link header-link--normal link regular upper js-menu-star__link">
-              <a class="no-hover-slant link  no-route " data-link="about">ABOUT US </a>
+              <a href="<?php echo home_url(); ?>/mission-vision" class="no-hover-slant link" data-link="about">ABOUT US </a>
             </span>
             <span class="header-link header-link--normal link regular upper js-menu-star__link">
               <a class="no-hover-slant link  no-route " data-link="menu">Benefits</a>
@@ -28,14 +28,12 @@
           </div>
         </div>
         <div class="header__part grid__item logo">
-          <a href="
-						<?php echo home_url(); ?>" class="no-hover-slant small caps upper bold">
+          <a href="<?php echo home_url(); ?>" class="no-hover-slant small caps upper bold">
             <svg class="svg-icon" viewBox="0 0 231.289 40" enable-background="new 0 0 231.289 40" xml:space="preserve">
               <use x="0" y="0" xlink:href="#logo" />
             </svg>
           </a>
-          <a href="
-						<?php echo home_url(); ?>" class="hide--till-s hide--from-l no-hover-slant">
+          <a href="<?php echo home_url(); ?>" class="hide--till-s hide--from-l no-hover-slant">
             <svg class="svg-icon" viewBox="0 0 231.289 40" enable-background="new 0 0 231.289 40" xml:space="preserve">
               <use x="0" y="0" xlink:href="#logo_bw" />
             </svg>

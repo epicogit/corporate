@@ -1,6 +1,6 @@
 <div class="highlights-carousel grid grid--no-edge" data-component="highlights-carousel" data-module="product-highlight">
-  <div class="row shift-left--sm reverse-sm">
-    <div class="h-image-carousel image grid__item grid--no-edge--msm col-xs-11 col-xs-offset-1 col-sm-8 col-sm-offset-0">
+  <div class="row  reverse-sm">
+    <div class="h-image-carousel image grid__item grid--no-edge col-xs-12 col-xs-offset-0 col-sm-12 col-sm-offset-0">
       <div class="h-image-carousel__inner js-h-image-carousel">
         <div class="h-image-carousel__item">
           <div class="h-carousel-image-item">
@@ -43,7 +43,7 @@
       <div class="highlights-carousel__left js-left"></div>
       <div class="highlights-carousel__right js-right"></div>
     </div>
-    <div class="h-text-carousel product-highlight__text grid__item grid--no-edge--msm col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
+    <div class="h-text-carousel product-highlight__text grid__item grid--padding col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0">
       <div class="h-text-carousel__inner js-h-text-carousel">
         <div class="h-text-carousel__item">
           <div class="h-carousel-text-item">

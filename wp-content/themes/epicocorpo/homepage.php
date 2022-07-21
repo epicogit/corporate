@@ -638,112 +638,12 @@
 
          </div>
 
-				 <?php get_template_part('/includes/homeblocks/team'); ?>
+			<?php get_template_part('/includes/homeblocks/team'); ?>
       </div>
       <?php get_template_part('/includes/footer-inside'); ?>
       <div class="newsletter-shadow"></div>
-      <div class="newsletter-signup">
-         <div class="row newsletter-signup step-2">
-            <div class="grid__item grid--padding col-xs-16 col-md-8 col-md-offset-2 row middle-md center-md">
-               <p class="h6">We've put you on the list</p>
-            </div>
-         </div>
-         <div class="row newsletter-signup step-1">
-            <div class="grid__item grid--padding col-xs-16 col-md-8 col-md-offset-2 row middle-md">
-               <p class="h8 no-margin">Get the good stuff as MENDO insider</p>
-               <br>
-               <p class="newsletter-signup__error small"></p>
-               <form method="post" class="row form-row form-row--details col-xs-12 row between-xs middle-xs">
-                  <div class="grid__item grid--no-padding-left col-xs-12 col-sm-6 col-md-12 col-lg-6">
-                     <div class="input__container input__container--text  no-border  ">
-                        <div class="input__input input-theme--">
-                           <input id="input-first_name" name="first_name" type="text" value="" class="input-text " required placeholder="First name" autofocus style=" ">
-                           <span class="check--svg">
-                              <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
-                                 <use x="0" y="0" xlink:href="#check" />
-                              </svg>
-                           </span>
-                           <div class="input__status input__status--error"></div>
-                           <div class="input__status input__status--valid"></div>
-                           <label for="input-first_name">First name</label>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="grid__item grid--no-padding-right col-xs-12 col-sm-6 col-md-12 col-lg-6">
-                     <div class="input__container input__container--text  no-border  ">
-                        <div class="input__input input-theme--">
-                           <input id="input-email_address" name="email_address" type="email" value="" class="input-text " required placeholder="Email address" style=" ">
-                           <span class="check--svg">
-                              <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
-                                 <use x="0" y="0" xlink:href="#check" />
-                              </svg>
-                           </span>
-                           <div class="input__status input__status--error"></div>
-                           <div class="input__status input__status--valid"></div>
-                           <label for="input-email_address">Email address</label>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="grid__item grid--no-padding col-xs-12 col-lg-8">
-                     <p class="tagline">Don’t worry, we wont spam you! We only send about 2 emails per month.</p>
-                  </div>
-                  <div class="grid__item grid--no-padding col-xs-12 col-lg-3 col-lg-offset-1">
-                     <button type="submit" class="button bordered"> Sign up <span class="button-hover"><span>
-                     <span class="buy-msg">Sign up</span>
-                     <span class="added-msg"></span>
-                     <span class="completed-msg"></span>
-                     </span></span>
-                     </button>
-                  </div>
-               </form>
-            </div>
-         </div>
-      </div>
+      <?php get_template_part('/includes/popup-inside'); ?>
    </div>
-   <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="pswp__bg"></div>
-      <div class="pswp__scroll-wrap">
-         <div class="pswp__container">
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-         </div>
-         <div class="pswp__ui pswp__ui--hidden">
-            <div class="pswp__top-bar">
-               <p class="pswp__counter link"></p>
-               <button class="pswp__button pswp__button--close" title="Close (Esc)">
-                  <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
-                     <use x="0" y="0" xlink:href="#cross" />
-                  </svg>
-               </button>
-               <div class="pswp__preloader">
-                  <div class="pswp__preloader__icn">
-                     <div class="pswp__preloader__cut">
-                        <div class="pswp__preloader__donut"></div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-               <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
-                  <use x="0" y="0" xlink:href="#arrow-right" />
-               </svg>
-            </button>
-            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-               <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
-                  <use x="0" y="0" xlink:href="#arrow-left" />
-               </svg>
-            </button>
-            <div class="pswp__caption pswp__caption--real">
-               <div class="pswp__caption__center"></div>
-               <button class="pswp__button pswp__button--caption">
-                  <svg class="svg-icon" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
-                     <use x="0" y="0" xlink:href="#info" />
-                  </svg>
-               </button>
-            </div>
-         </div>
-      </div>
-   </div>
+   <?php get_template_part('/includes/pswp'); ?>
 </main>
 <?php get_footer(); ?>

@@ -39,7 +39,7 @@
                                     </div>
                                  </div>
                               </div>
-															<div class="h-text-carousel__item grid--padding">
+															<div class="h-text-carousel__item grid--padding+">
 	                               <div class="h-carousel-text-item">
 																	 <p class="small caps upper bold spaced text--dark-epicoplay">
 																		 <?php echo $i+1;  ?> &bull; <?php the_title(); ?>
