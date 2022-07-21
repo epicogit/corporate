@@ -14032,7 +14032,7 @@ body[class*=is-home] .header.scrolled .c-search-fixed__header {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(0,0,0,.6);
+	background: rgba(11,36,51,.9);
 	z-index: 0
 }
 
@@ -14082,7 +14082,10 @@ body[class*=is-home] .header.scrolled .c-search-fixed__header {
 		margin: auto
 	}
 }.newsletter-popup--beige .newsletter-popup--inner {
-	background: #dac8b1
+	background: #0B2433;
+	background-image: url("../../../themes/epicocorpo/assets/images/ui/zebra.jpg");
+	background-size: cover;
+
 }
 
 .sticker {

@@ -34,7 +34,7 @@ Template Name: Mission & Vision
 		</div>
 		<div class="page page-home">
 			<div class="bia-scroll-element">
-				<div class="grid page-support__header" style="background-image: url('/wp-content/uploads/2022/07/img2x-1.png');">
+				<div class="grid page-support__header" style="background-image: url('/wp-content/uploads/2022/07/img2x.png');">
 					 <div class="row left-xs">
 							<div class="grid__item col-xs-12 col-md-6">
 								 <p class="text--light"><strong>Epico Play </strong> Mission & Vision.</p>
@@ -148,7 +148,7 @@ Vogliamo digitalizzare il mercato della comunicazione attraverso una soluzione r
 
 
 
-				
+
 
 
 
